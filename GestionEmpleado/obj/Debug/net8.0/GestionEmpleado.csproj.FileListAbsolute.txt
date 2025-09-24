@@ -1,0 +1,14 @@
+/home/Coder/Escritorio/David Vargas Varela_NO BORRAR/Semana 3/GestionEmpleado/GestionEmpleado/obj/Debug/net8.0/GestionEmpleado.GeneratedMSBuildEditorConfig.editorconfig
+/home/Coder/Escritorio/David Vargas Varela_NO BORRAR/Semana 3/GestionEmpleado/GestionEmpleado/obj/Debug/net8.0/GestionEmpleado.AssemblyInfoInputs.cache
+/home/Coder/Escritorio/David Vargas Varela_NO BORRAR/Semana 3/GestionEmpleado/GestionEmpleado/obj/Debug/net8.0/GestionEmpleado.AssemblyInfo.cs
+/home/Coder/Escritorio/David Vargas Varela_NO BORRAR/Semana 3/GestionEmpleado/GestionEmpleado/obj/Debug/net8.0/GestionEmpleado.csproj.CoreCompileInputs.cache
+/home/Coder/Escritorio/David Vargas Varela_NO BORRAR/Semana 3/GestionEmpleado/GestionEmpleado/bin/Debug/net8.0/GestionEmpleado
+/home/Coder/Escritorio/David Vargas Varela_NO BORRAR/Semana 3/GestionEmpleado/GestionEmpleado/bin/Debug/net8.0/GestionEmpleado.deps.json
+/home/Coder/Escritorio/David Vargas Varela_NO BORRAR/Semana 3/GestionEmpleado/GestionEmpleado/bin/Debug/net8.0/GestionEmpleado.runtimeconfig.json
+/home/Coder/Escritorio/David Vargas Varela_NO BORRAR/Semana 3/GestionEmpleado/GestionEmpleado/bin/Debug/net8.0/GestionEmpleado.dll
+/home/Coder/Escritorio/David Vargas Varela_NO BORRAR/Semana 3/GestionEmpleado/GestionEmpleado/bin/Debug/net8.0/GestionEmpleado.pdb
+/home/Coder/Escritorio/David Vargas Varela_NO BORRAR/Semana 3/GestionEmpleado/GestionEmpleado/obj/Debug/net8.0/GestionEmpleado.dll
+/home/Coder/Escritorio/David Vargas Varela_NO BORRAR/Semana 3/GestionEmpleado/GestionEmpleado/obj/Debug/net8.0/refint/GestionEmpleado.dll
+/home/Coder/Escritorio/David Vargas Varela_NO BORRAR/Semana 3/GestionEmpleado/GestionEmpleado/obj/Debug/net8.0/GestionEmpleado.pdb
+/home/Coder/Escritorio/David Vargas Varela_NO BORRAR/Semana 3/GestionEmpleado/GestionEmpleado/obj/Debug/net8.0/GestionEmpleado.genruntimeconfig.cache
+/home/Coder/Escritorio/David Vargas Varela_NO BORRAR/Semana 3/GestionEmpleado/GestionEmpleado/obj/Debug/net8.0/ref/GestionEmpleado.dll
