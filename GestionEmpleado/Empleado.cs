@@ -2,11 +2,16 @@ namespace GestionEmpleado;
 
 public class Empleado : Persona
 {
+    public Guid Id { get; private set; }    
+    public String NumeroDeIdentificacion { get; private set; }
     public String Posicion { get; private set; }
     public Double Salario { get; private set; }
 
-    public Empleado(string nombre, string apellido, string numeroDeIdentificacion,byte edad, string posicion, double salario ): base(nombre, apellido,numeroDeIdentificacion,edad)
+    public Empleado(string nombre, string apellido,byte edad,string numeroDeIdentificacion, string posicion, double salario ): base(nombre, apellido,edad)
+    
     {
+        Id = Guid.NewGuid();
+        NumeroDeIdentificacion = numeroDeIdentificacion;
         Posicion = posicion;
         Salario = salario;
     }
@@ -28,13 +33,11 @@ public class Empleado : Persona
         Console.WriteLine($"Salario(+ Bono 10%): {Salario+CalcularBonificacion():c}");
     }
 
-    public override void ActualizarDatos(string nombre, string apellido, byte edad )
-        :base (string newPosicion, string newSalario)
+    public void ActualizarDatos(string numeroDeIdentificacion, string posicion, double salario)
     {
-        Nombre = newNombre;
-        Apellido = newApellido;
-        NumeroDeIdentificacion = numeroIdentificacion;
-        Edad = edad;
+
+        base.ActualizarDatos(Nombre, Apellido, Edad);
+        NumeroDeIdentificacion = numeroDeIdentificacion;
         Posicion = posicion;
         Salario = salario;
     }
