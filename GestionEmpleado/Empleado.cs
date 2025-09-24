@@ -33,9 +33,9 @@ public class Empleado : Persona
         Console.WriteLine($"Salario(+ Bono 10%): {Salario+CalcularBonificacion():c}");
     }
 
-    public void ActualizarDatos(string numeroDeIdentificacion, string posicion, double salario)
+    public void ActualizarDatos(string nombre, string apellido, string edad, string numeroDeIdentificacion, string posicion, double salario)
     {
-
+    
         base.ActualizarDatos(Nombre, Apellido, Edad);
         NumeroDeIdentificacion = numeroDeIdentificacion;
         Posicion = posicion;
